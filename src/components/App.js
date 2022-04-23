@@ -32,4 +32,6 @@ const App = () => {
 	);
 };
 
+console.log("gugu gaga");
+
 export default App;
